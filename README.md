@@ -44,7 +44,7 @@ The project is built following the **Clean Architecture** principles and **MVVM 
 
 ## ⚙️ Setup Instructions
 
-1.  Clone the repository: `git clone https://github.com/GeorgeRaief/MoneyDash.git`
+1.  Clone the repository: `git clone https://github.com/ItcProjects-R4/CAI4_SWD4_S3_PROJECT2.git`
 2.  Connect the app to your Firebase project.
 3.  Download the `google-services.json` file and place it in the `app/` directory.
 4.  Enable **Email/Password Auth**, **Firestore**, and **Realtime Database** in your Firebase console.
